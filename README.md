@@ -10,3 +10,4 @@ new comit in local
 git pull from remote
 change for commit
 123
+git fech edit
