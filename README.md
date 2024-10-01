@@ -10,3 +10,4 @@ change for commit
 git fetch edit
 changes received
 to do changes after commit
+changes to resolve conflict
