@@ -12,3 +12,4 @@ changes received
 to do changes after commit
 changes to resolve conflict
 new changes 123
+123 changes accepted
